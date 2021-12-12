@@ -7,8 +7,9 @@
 배포 : <a href="https://posuto.netlify.app/" target="_blank">https://posuto.netlify.app/</a> </br>
 </br>
 ![](https://img.shields.io/badge/LICENSE-MIT-critical)
+![version](https://img.shields.io/badge/Version-1.0-%23f67aff)
 </br>
-*With Vue 2 (Version 1.0)*
+*With Vue 2* 
 </br>
 Updated works! : [Vue 3 Composition API + Typescript (Version 2.0)](https://github.com/cre4tive97/vue3-posuto)
 </p>
